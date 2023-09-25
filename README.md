@@ -19,7 +19,7 @@ You can install these dependencies using pip install <package_name>.
 2. Download or capture images of individuals whose attendance you want to track. Organize these images into folders, where each folder represents a person's name. Place all these folders in a directory and specify the path to this directory in the code.
 
 3. Encode the faces in the images using the pickle.py script. Replace <path_to_folder_with_folders_of_images> with the path to your image folders and <encodings_pickle_file_name> with the desired name for the pickle file that will store the encodings.
-4. Run python encode_faces.py
+4. Run python pickle.py
 5. This script will generate a pickle file containing face encodings for known individuals.
 
 6. Update the main script attendance_system.py with the path to your encodings pickle file and the folder containing images of individuals for whom you want to mark attendance.

@@ -39,6 +39,8 @@ You can adjust these parameters according to your requirements.
 
 # Acknowledgments
 This project uses various libraries and techniques for face recognition and liveness detection. Thanks to the developers of these libraries for their contributions.
+I would like to acknowledge the following open-source project for their contributions:
+- [juan-csv/face_liveness_detection-Anti-spoofing](https://github.com/juan-csv/face_liveness_detection-Anti-spoofing): This repository provided valuable insights and code that influenced this project.
 
 
 
